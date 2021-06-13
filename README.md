@@ -17,4 +17,4 @@ This is a Computer Training Institute Management website, made by core php and u
 * MySql
 
 
-
+![alt text](https://github.com/AmardeepKesharwani/lovee-php/blob/main/img/lovee.jpg?raw=true)
