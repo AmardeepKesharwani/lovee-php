@@ -1,0 +1,29 @@
+{
+  "name": "Lovee Computers",
+  "short_name": "Lovee",
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff",
+  "description":"Lovee Computers Institute provided Computer Courses and Diploma",
+  "theme_color": "#000",
+  "Author":"Amardeep Kesharwani",
+  "Lang":"en-in",
+  "icons": [
+    {
+    "src": "img/icons/lovee-96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+    },
+    {
+     "src": "img/icons/lovee-144.png",
+     "sizes": "144x144",
+     "type": "image/png"
+     },
+    {
+      "src": "img/icons/lovee.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
